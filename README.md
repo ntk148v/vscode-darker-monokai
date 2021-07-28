@@ -1,5 +1,7 @@
 # VSCode Darker Monokai
 
+![](preview.png)
+
 [Monokai](https://colorsublime.github.io/themes/Monokai%20Best/) but darker background.
 
 Here are some useful editor keyboard shortcuts:
