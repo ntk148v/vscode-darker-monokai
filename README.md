@@ -1,0 +1,1 @@
+# vscode-darker-monokai
