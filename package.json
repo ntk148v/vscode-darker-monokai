@@ -1,0 +1,21 @@
+{
+    "name": "vscode-darker-monokai",
+    "displayName": "VSCode Darker Monokai",
+    "description": "Monokai but darker background",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darker Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darker Monokai-color-theme.json"
+            }
+        ]
+    }
+}
