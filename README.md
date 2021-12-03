@@ -11,7 +11,7 @@
 
 ## Demo
 
-![](preview.png)
+![preview](preview.png)
 
 ## Contributing
 
