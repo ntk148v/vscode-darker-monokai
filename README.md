@@ -11,7 +11,7 @@
 
 ## Demo
 
-![preview](preview.png)
+![preview](https://raw.githubusercontent.com/ntk148v/vscode-darker-monokai/master/preview.png)
 
 ## Contributing
 
