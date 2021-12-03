@@ -3,7 +3,7 @@
     "displayName": "VSCode Darker Monokai",
     "description": "Monokai but darker background",
     "version": "0.0.1",
-    "publisher": "ntk148v",
+    "publisher": "kiennt26",
 	"license": "MIT",
     "engines": {
         "vscode": "^1.58.0"
